@@ -1,0 +1,56 @@
+﻿warehouse_zone;product_type;x;y
+AMB;Bebidas;12;44
+AMB;Carne de Bovino;12;42
+AMB;Carne de Porco;12;40
+AMB;Criacao;12;38
+AMB;Equipamentos p/cozinhas;12;36
+AMB;Frutas;12;34
+AMB;Legumes;16;44
+AMB;Material Informatica;16;42
+AMB;Mercadorias Alimentares;16;40
+AMB;Mercearia;16;38
+AMB;Nao Alimentares;16;36
+AMB;Peixe;16;34
+AMB;Taras;14;32
+BAT;Legumes;25;38
+CAR;Carne de Bovino;34;24,5
+CAR;Carne de Porco;38;24,5
+CAR;Criacao;36;18,5
+CON;Carne de Bovino;3,5;24,5
+CON;Carne de Ovino;3,5;21,5
+CON;Carne de Porco;3,5;18,5
+CON;Criacao;3,5;15,5
+CON;Frutas;3,5;12,5
+CON;Legumes;3,5;9,5
+CON;Mercearia;3,5;6,5
+CON;Nao Alimentares;3,5;4
+CON;Peixe;6,5;14
+DET;Nao Alimentares;20;23
+FRE;Carne de Porco;19,5;8
+FRE;Criacao;19,5;4
+FRE;Frutas;25,5;8
+FRE;Legumes;25,5;4
+FRL;Frutas;11;8
+FRL;Legumes;11;4
+MAT;Equipamentos p/cozinhas;36;41
+MAT;Nao Alimentares;36;35
+NAL;Equipamentos p/cozinhas;14,5;22,5
+NAL;Frutas;12;28
+NAL;Material Escritorio;12;26
+NAL;Material Informatica;12;24
+NAL;Mercearia;12;22
+NAL;Nao Alimentares;12;20
+NAL;Taras;12;18
+PEX;Peixe;36;7
+REF;Bebidas;2,5;40
+REF;Carne de Bovino;2,5;38
+REF;Carne de Porco;2,5;36
+REF;Criacao;2,5;34
+REF;Equipamentos p/cozinhas;2,5;32
+REF;Frutas;5,5;40
+REF;Legumes;5,5;38
+REF;Mercearia;5,5;36
+REF;Peixe;5,5;34
+REF;Refeições Cook & Chill (Socigeste);5,5;32
+SAL;Legumes;27;25,5
+SAL;Mercearia;27;20,5
